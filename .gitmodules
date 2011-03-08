@@ -1,0 +1,3 @@
+[submodule "tools/coremake"]
+	path = tools/coremake
+	url = git@github.com:robUx4/Coremake.git
